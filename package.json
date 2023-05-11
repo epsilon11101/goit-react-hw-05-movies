@@ -10,8 +10,19 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.12.3",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "localforage": "^1.10.0",
+    "match-sorter": "^6.3.1",
+    "nanoid": "^4.0.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.0",
+    "sort-by": "^1.2.0",
+    "styled-components": "^5.3.10",
+    "swiper": "^9.3.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
